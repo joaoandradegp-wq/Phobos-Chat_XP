@@ -1,0 +1,38 @@
+Instalando os Socket Components
+Por padrão estes componentes não vem instalados no delphi,
+mas eles estão presentes nos arquivos do mesmo.
+
+Veja como realizar a instalação:
+
+Para instalar o socket components, você deve instalar o pacote dclsockets.
+
+Vamos aos passos:
+
+– Vá em Select Component > Install Packages.
+– No dialogo do Install Packages dialog box, clique em Add.
+– No diálogo Add Design Package, navegue para C:\Program Files (x86)\Embarcadero\Studio\19.0\bin.
+– Selecione dclsockets250.bpl, e clique em Open.
+– Clique em OK para fechar o dialogo do Install Packages.
+Os socket components (TClientSocket and TServerSocket) serão listados na categoria Internet da Toot Palette.
+
+Após estes passos os socket components estarão disponíveis para projetos futuros.
+
+Obs
+
+Cada versão de delphi terá um número diferente
+
+dclsockets250.bpl – Toyo
+dclsockets240.bpl – Berlin
+dclsockets230.bpl – Seatle
+e assim por diante.
+
+O mesmo ocorre no caminnho, onde neste exemplo esta 19.0, mas isso pode mudar conforme a
+versão que estejas utilizando.
+
+Relembrando, os seguintes componentes estarão disponíveis:
+TClientSocket
+TServerSocket
+
+Forte abraço a todos!
+
+Referência: http://docwiki.embarcadero.com/RADStudio/Tokyo/en/Installing_Socket_Components
