@@ -15,7 +15,7 @@ Aplicação de chat peer-to-peer desenvolvida em Delphi 7 para comunicação em 
 <h2>📌 Sobre</h2>
 
 <p>
-O <b>LAN Chat</b> foi desenvolvido como uma solução leve para comunicação direta entre computadores em rede local, sem necessidade de servidores externos, banco de dados ou internet.
+O <b>Chat XP</b> foi desenvolvido como uma solução leve para comunicação direta entre computadores em rede local, sem necessidade de servidores externos, banco de dados ou internet.
 </p>
 
 <p>
