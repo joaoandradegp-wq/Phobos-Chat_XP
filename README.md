@@ -15,7 +15,7 @@ Aplicação de chat peer-to-peer desenvolvida em Delphi 7 para comunicação em 
 <h2>📌 Sobre</h2>
 
 <p>
-O <b>Legacy LAN Chat</b> foi desenvolvido como uma solução leve para comunicação direta entre computadores em rede local, sem necessidade de servidores externos, banco de dados ou internet.
+O <b>LAN Chat</b> foi desenvolvido como uma solução leve para comunicação direta entre computadores em rede local, sem necessidade de servidores externos, banco de dados ou internet.
 </p>
 
 <p>
@@ -58,6 +58,8 @@ Além do envio de mensagens, o aplicativo também possui notificações sonoras,
 Todo o processo acontece utilizando comunicação direta via socket, sem dependência de serviços externos.
 </p>
 
+---
+
 <h2>🧠 Recursos implementados</h2>
 
 <p>Durante a execução, o sistema oferece:</p>
@@ -75,6 +77,8 @@ Todo o processo acontece utilizando comunicação direta via socket, sem depend�
   <li>Bloqueio automático do campo de envio quando desconectado</li>
   <li>Status de conexão em tempo real</li>
 </ul>
+
+---
 
 <h2>🌐 Comunicação em rede</h2>
 
@@ -98,6 +102,8 @@ Quando uma conexão é estabelecida:
   <li>As mensagens passam a trafegar via socket TCP</li>
 </ul>
 
+---
+
 <h2>🔔 Sistema de notificações</h2>
 
 <p>
@@ -117,6 +123,8 @@ Um dos principais recursos implementados no sistema é o mecanismo de alertas de
 O usuário também pode desativar os alertas sonoros através da barra de ferramentas.
 </p>
 
+---
+
 <h2>🖥️ Interface</h2>
 
 <p>
@@ -133,6 +141,8 @@ A interface foi construída utilizando componentes VCL clássicos do Delphi 7.
   <li>Indicadores visuais de atividade</li>
 </ul>
 
+---
+
 <h2>🎨 Personalização</h2>
 
 <p>O sistema permite personalização básica da interface:</p>
@@ -147,6 +157,8 @@ A interface foi construída utilizando componentes VCL clássicos do Delphi 7.
 <p>
 As alterações são aplicadas dinamicamente durante a execução.
 </p>
+
+---
 
 <h2>🧩 Integração com System Tray</h2>
 
@@ -163,6 +175,8 @@ A aplicação possui integração completa com a bandeja do sistema através do 
   <li>Menu rápido na bandeja</li>
 </ul>
 
+---
+
 <h2>⚠️ Tratamento de erros</h2>
 
 <p>
@@ -178,6 +192,8 @@ O sistema possui validações básicas de conexão e tratamento de falhas de red
   <li>Reset automático do estado visual</li>
 </ul>
 
+---
+
 <h2>🚀 Fluxo de utilização</h2>
 
 <ol>
@@ -188,6 +204,8 @@ O sistema possui validações básicas de conexão e tratamento de falhas de red
   <li>Digite mensagens e pressione ENTER</li>
   <li>Receba notificações em tempo real</li>
 </ol>
+
+---
 
 <h2>🛠️ Tecnologias</h2>
 
@@ -210,16 +228,6 @@ O sistema possui validações básicas de conexão e tratamento de falhas de red
 
 ---
 
-<h2>📥 Download</h2>
-
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Download-%20Phobos%20Chat%20XP-blue?style=for-the-badge">
-  </a>
-</p>
-
----
-
-<p align="center">
-Aplicação clássica de comunicação LAN desenvolvida em Delphi 7
+Aplicação clássica de comunicação via intranet inspirado no Winpopup LAN Messenger.
 </p>
