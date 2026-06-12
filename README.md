@@ -223,11 +223,11 @@ O sistema possui validações básicas de conexão e tratamento de falhas de red
 <h2>📸 Preview</h2>
 
 <p align="center">
-  <img width="380" height="360" alt="image" src="https://github.com/user-attachments/assets/58e521e2-27d2-4c2f-aa70-7e9afe43666e" />
+  <img width="465" height="459" alt="image" src="https://github.com/user-attachments/assets/9a7deba8-8a00-4fc6-9059-47ab2e6cc875" />
 </p>
 
 ---
 
 <p align="center">
-Aplicação clássica de comunicação via intranet inspirado no Winpopup LAN Messenger.
+Aplicação clássica de comunicação via intranet inspirado no Winpopup LAN Messenger. 🗨️
 </p>
